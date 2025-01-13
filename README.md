@@ -1,4 +1,4 @@
-# Repository for [Paper Title]
+# Repository for "A solution to the robustness problem of Turing patterns through patterning mode isolation"
 
 This repository contains all the computational codes and models associated with the research presented in the paper **"A solution to the robustness problem of Turing patterns through patterning mode isolation"**, authored by Thomas E. Woolley. These files are intended to enable replication of results, further exploration of the methodologies, and extension of the work into related research areas.
 
